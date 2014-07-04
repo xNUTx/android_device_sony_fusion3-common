@@ -21,7 +21,7 @@ include device/sony/qcom-common/BoardConfigCommon.mk
 TARGET_SPECIFIC_HEADER_PATH := device/sony/fusion3-common/include
 
 # Kernel properties
-TARGET_KERNEL_SOURCE := kernel/sony/apq8064
+#TARGET_KERNEL_SOURCE := kernel/sony/apq8064
 
 # Platform
 TARGET_BOOTLOADER_BOARD_NAME := MSM8960
