@@ -24,7 +24,6 @@ TARGET_SPECIFIC_HEADER_PATH := device/sony/fusion3-common/include
 #TARGET_KERNEL_SOURCE := kernel/sony/apq8064
 
 # Time
-TARGET_RECOVERY_QCOM_RTC_FIX := false
 TARGET_RECOVERY_QCOM_RTC_OFFSET := true
 
 # Platform
