@@ -23,6 +23,10 @@ TARGET_SPECIFIC_HEADER_PATH := device/sony/fusion3-common/include
 # Kernel properties
 #TARGET_KERNEL_SOURCE := kernel/sony/apq8064
 
+# Time
+TARGET_RECOVERY_QCOM_RTC_FIX := false
+TARGET_RECOVERY_QCOM_RTC_OFFSET := true
+
 # Platform
 TARGET_BOOTLOADER_BOARD_NAME := MSM8960
 TARGET_BOARD_PLATFORM := msm8960
