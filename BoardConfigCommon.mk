@@ -21,7 +21,7 @@ include device/sony/qcom-common/BoardConfigCommon.mk
 TARGET_SPECIFIC_HEADER_PATH := device/sony/fusion3-common/include
 
 # Time
-TARGET_RECOVERY_QCOM_RTC_OFFSET := true
+TARGET_RECOVERY_QCOM_RTC_FIX := true
 
 # Kernel properties
 #TARGET_KERNEL_SOURCE := kernel/sony/apq8064
